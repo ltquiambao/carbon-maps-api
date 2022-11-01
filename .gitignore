@@ -1,0 +1,17 @@
+# workspace artifacts
+
+.vscode
+
+# environment variables
+
+.env
+
+# node artifacts
+
+dist/
+node_modules/
+npm-debug.log
+
+# test coverage
+
+**/*coverage

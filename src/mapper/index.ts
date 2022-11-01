@@ -1,0 +1,1 @@
+export { EmissionsLocationMapper } from './emission-location-mapper';
